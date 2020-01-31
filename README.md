@@ -1,8 +1,9 @@
 # Coronavirus-Analysis 
 
-## Author : Bohan Shi
+## Author : 
+- Bohan Shi
 ## Version      
-31/01/2020      # 1       
+* 31/01/2020      # 1       
    
 ## Objective : Self-interest project. 
 - EDA the dataset
