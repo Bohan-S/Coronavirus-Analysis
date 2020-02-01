@@ -2,8 +2,8 @@
 ![Sample Dash Board](https://github.com/Bohan-S/Coronavirus-Analysis/blob/master/sample%20dashboard.png)
 
 ## Author : 
-- Bohan Shi
--
+- Bohan-S   
+- MJ.Kok
 
 ## Version      
 1. 31/01/2020         
